@@ -24,4 +24,3 @@ Connect with Me
 Quality delivery isn’t about speed ,it’s about precision, consistency, 
 and communication.”
 
-![Marvelous's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvelousPeter&show_icons=true&theme=default)
